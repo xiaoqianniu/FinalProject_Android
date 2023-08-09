@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">FinalProject_Android</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="required">* Required</string>
+    <string name="star">*</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="gender">Gender:</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="have_an_account">Have an Account?</string>
+    <string-array name="years">
+        <item>year</item>
+        <item>2023</item>
+        <item>2022</item>
+
+    </string-array>
+    <string-array name="months">
+        <item>month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="days">
+        <item>day</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="heightUnits">
+        <item>CM</item>
+        <item>M</item>
+    </string-array>
+    <string-array name="weightUnits">
+        <item>Kg</item>
+        <item>lbs</item>
+    </string-array>
+</resources>
